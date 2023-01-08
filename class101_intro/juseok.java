@@ -17,7 +17,7 @@ public class juseok {
          * 색깔이 들어가는건 javadoc 에 들어간다
          * */
 
-        
+
 
 
     }
